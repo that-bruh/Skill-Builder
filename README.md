@@ -1,0 +1,1 @@
+This is a hobby website that I am working on for my brother's coffee roasting business. It is a starting point for me to develop my skills and play around with different html and css as an exercise.  
